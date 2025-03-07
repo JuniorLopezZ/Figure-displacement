@@ -49,3 +49,7 @@ for i=1:1:10
 end
 %% ampliarla %%  
 % hacer que nos se salga de un cuadrado mas grande del que ya genera y siga dibujando %% 
+
+
+
+%% hola xd %%
